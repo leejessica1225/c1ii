@@ -3,9 +3,7 @@
   <head>
     <title>September 3, 2024</title>
     <style>
-      body {
-        background-color: papayawhip;
-      }
+      body {background-color: papayawhip;}
     </style>
   </head>
   <body>
